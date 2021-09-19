@@ -71,11 +71,11 @@
       "detect_on": "canvas",
       "events": {
         "onhover": {
-          "enable": true,
+          "enable": false,
           "mode": "bubble"
         },
         "onclick": {
-          "enable": true,
+          "enable": false,
           "mode": "repulse"
         },
         "resize": true
@@ -110,7 +110,7 @@
     "config_demo": {
       "hide_card": true,
       "background_color": "#232741",
-      "background_image": "https://ipfs.atomichub.io/ipfs/QmTdDp3dy2ypshaJpDNsT9i7GvhvRN3CAGmPGz88VxQxv4",
+      "background_image": "assets/logo.png",
       "background_position": "50% 50%",
       "background_repeat": "no-repeat",
       "background_size": "20%"
